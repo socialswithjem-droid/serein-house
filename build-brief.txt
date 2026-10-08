@@ -1,0 +1,2800 @@
+# COMPLETE WEBSITE BUILD BRIEF
+
+Build a complete, polished, production-quality, multi-page ecommerce website for a fictional premium body care, fragrance, and home scent brand called:
+
+# SEREIN HOUSE
+
+This website is being created as a professional web-development portfolio project.
+
+It must look and behave like a real modern Shopify/DTC ecommerce store rather than a landing page or generic AI-generated template.
+
+This is a FICTIONAL concept brand, but the website itself should be complete enough to feel like a real business.
+
+Do not ask me to provide missing product descriptions, pricing, collection descriptions, reviews, FAQ copy, placeholder text, or page copy.
+
+Everything needed to build the website is provided below.
+
+---
+
+# 1. BRAND IDENTITY
+
+Brand Name:
+
+SEREIN HOUSE
+
+Tagline:
+
+Fragrance for slower living.
+
+Brand description:
+
+Serein House is an independent fragrance and body-care house inspired by the quiet parts of everyday life: rain against an open window, freshly washed sheets, warm skin after a shower, late-afternoon sunlight, and rooms that still carry traces of the people who were there.
+
+The collection includes personal fragrance, body care, candles, room fragrance, and curated ritual sets.
+
+Rather than creating loud statement scents, Serein House creates intimate compositions designed to live close to the skin and become part of everyday routines.
+
+Brand personality:
+
+• sensory  
+• editorial  
+• intimate  
+• sophisticated  
+• warm  
+• contemporary  
+• artistic  
+• quietly confident  
+• premium but approachable
+
+Target customer:
+
+Design-conscious customers approximately 22–40 years old who appreciate fragrance, skincare, interiors, lifestyle products, beautiful packaging, slow living, and thoughtful design.
+
+---
+
+# 2. BRAND VOICE
+
+Copy should sound:
+
+Natural  
+Editorial  
+Sensory  
+Confident  
+Minimal but meaningful  
+Human
+
+Avoid generic AI phrases including:
+
+"elevate your everyday"
+
+"where luxury meets..."
+
+"discover the perfect..."
+
+"crafted for the modern..."
+
+"experience unparalleled..."
+
+"redefine your..."
+
+"more than just..."
+
+Avoid excessive use of words such as:
+
+luxury  
+timeless  
+elevated  
+seamless  
+premium
+
+Write like an independent fragrance studio, not a corporate beauty company.
+
+---
+
+# 3. COLOR SYSTEM
+
+Use the following brand colors consistently:
+
+Deep Plum
+#432C3C
+
+Dusty Rose
+#C89591
+
+Warm Cream
+#F4EFE7
+
+Muted Sage
+#9EA78E
+
+Espresso
+#29211F
+
+Soft White
+#FBF9F5
+
+The website should NOT become another beige minimalist ecommerce template.
+
+Cream can be the primary canvas, but plum, rose, sage, and espresso should create recognizable brand moments throughout the website.
+
+---
+
+# 4. TYPOGRAPHY
+
+Primary Display Font:
+
+Bodoni Moda
+
+Use for:
+hero headlines
+editorial statements
+large headings
+campaign typography
+selected product names
+
+Secondary Editorial Font:
+
+Cormorant Infant
+
+Use selectively for:
+quotes
+small editorial moments
+italic accents
+journal styling
+
+UI / Body Font:
+
+Manrope
+
+Use for:
+navigation
+buttons
+product information
+body copy
+forms
+filters
+cart
+small labels
+
+Do NOT use:
+
+Poppins
+Inter
+Montserrat
+Roboto
+Arial
+
+as the primary brand typography.
+
+Typography should be one of the strongest parts of the visual identity.
+
+---
+
+# 5. LOGO
+
+Create a simple typographic wordmark:
+
+SEREIN HOUSE
+
+Use uppercase editorial serif lettering with generous tracking.
+
+Do not create a generic flower, leaf, sparkle, or "SH" monogram unless used extremely subtly.
+
+The wordmark should be enough to establish the identity.
+
+---
+
+# 6. VISUAL DIRECTION
+
+The website should feel like a combination of:
+
+independent fragrance house
+editorial magazine
+modern beauty ecommerce store
+quiet lifestyle publication
+
+Photography should feature:
+
+product bottles
+glass perfume bottles
+body-care packaging
+skin
+bathroom rituals
+linen
+stone
+water
+rain
+soft natural light
+bedrooms
+quiet interiors
+wood
+hands
+flowers used sparingly
+candles
+close-up textures
+
+Product packaging should be consistent.
+
+Suggested packaging:
+
+Warm cream labels
+Dark plum typography
+Smoked or amber glass
+Muted rose accents
+Minimal labeling
+Simple cylindrical or rectangular bottles
+
+Avoid making every product image look identical.
+
+Use a mixture of:
+
+clean product photography
+editorial still life
+lifestyle photography
+detail photography
+texture imagery
+
+---
+
+# 7. DESIGN RULES
+
+IMPORTANT:
+
+Do NOT build the typical AI website:
+
+Hero
+3 cards
+features
+testimonials
+CTA
+footer
+
+Avoid excessive:
+
+rounded cards
+floating blobs
+gradients
+glassmorphism
+glowing elements
+pill-shaped everything
+huge rounded containers
+random icons
+purple SaaS styling
+
+Instead use:
+
+editorial grids
+large typography
+asymmetrical compositions
+full-bleed photography
+intentional whitespace
+image cropping
+horizontal product layouts
+subtle overlaps
+unexpected alignment
+magazine-inspired layouts
+
+The website should look custom-designed.
+
+---
+
+# 8. WEBSITE STRUCTURE
+
+THIS MUST BE A TRUE MULTI-PAGE WEBSITE.
+
+Do NOT place the entire website inside the homepage.
+
+Use actual routes.
+
+Required routes:
+
+/
+Homepage
+
+/shop
+Shop All
+
+/collections/body-care
+Body Care
+
+/collections/fragrance
+Fragrance
+
+/collections/home
+Home Fragrance
+
+/collections/sets
+Sets & Gifts
+
+/collections/new
+New Arrivals
+
+/collections/bestsellers
+Best Sellers
+
+/products/soft-hours-body-wash
+
+/products/soft-hours-body-lotion
+
+/products/still-water-body-oil
+
+/products/sunday-skin-hand-wash
+
+/products/sunday-skin-hand-cream
+
+/products/after-rain-eau-de-parfum
+
+/products/quiet-morning-eau-de-parfum
+
+/products/late-light-eau-de-parfum
+
+/products/serein-discovery-set
+
+/products/open-window-candle
+
+/products/late-light-candle
+
+/products/sunday-room-spray
+
+/products/evening-ritual
+
+/products/soft-hours-duo
+
+/products/discovery-collection
+
+/about
+
+/journal
+
+/journal/why-scent-memories-stay
+
+/journal/five-minute-evening-ritual
+
+/journal/the-quiet-appeal-of-skin-scents
+
+/contact
+
+/faq
+
+/shipping-returns
+
+/privacy
+
+/terms
+
+/search
+
+/cart
+
+---
+
+# 9. ANNOUNCEMENT BAR
+
+Display:
+
+COMPLIMENTARY SHIPPING ON ORDERS OVER $75
+
+Include a subtle rotating second message if desired:
+
+A COMPLIMENTARY SAMPLE WITH EVERY FRAGRANCE ORDER
+
+Do not make the announcement bar distracting.
+
+---
+
+# 10. HEADER
+
+Desktop header:
+
+LEFT
+
+SHOP
+NEW
+ABOUT
+JOURNAL
+
+CENTER
+
+SEREIN HOUSE
+
+RIGHT
+
+SEARCH ICON
+ACCOUNT ICON
+BAG ICON
+
+Bag should display item count when products are added.
+
+The header may initially overlay the hero and transition into a solid background while scrolling.
+
+Keep this elegant and readable.
+
+---
+
+# 11. SHOP MEGA MENU
+
+Hovering/clicking SHOP on desktop should reveal a proper ecommerce mega menu.
+
+Column 1:
+
+SHOP
+
+Shop All
+New Arrivals
+Best Sellers
+
+Column 2:
+
+BY CATEGORY
+
+Body Care
+Fragrance
+Home Fragrance
+Sets & Gifts
+
+Column 3:
+
+FEATURED
+
+After Rain
+Soft Hours
+Discovery Set
+
+Include one or two editorial product/lifestyle images.
+
+Clicking menu items must navigate to their respective pages.
+
+---
+
+# 12. MOBILE NAVIGATION
+
+Create a polished full-screen or drawer-style mobile navigation.
+
+Include:
+
+Shop
+New Arrivals
+Best Sellers
+Body Care
+Fragrance
+Home Fragrance
+Sets & Gifts
+About
+Journal
+Contact
+FAQ
+
+Allow Shop categories to expand/collapse.
+
+Include Search and Account access.
+
+---
+
+# 13. HOMEPAGE
+
+The homepage should introduce the brand.
+
+Do NOT show everything on the homepage.
+
+Dedicated shopping and information pages must remain important.
+
+---
+
+## HOMEPAGE SECTION 1 — HERO
+
+Use full-screen editorial campaign photography.
+
+Headline:
+
+SCENT,
+IN ITS SOFTER FORM.
+
+Body copy:
+
+Body care and fragrance composed for the rituals between everything else.
+
+Primary CTA:
+
+SHOP THE COLLECTION
+
+Link:
+/shop
+
+Secondary CTA:
+
+DISCOVER AFTER RAIN
+
+Link:
+/products/after-rain-eau-de-parfum
+
+Hero should feel like a fragrance campaign, not a software website.
+
+---
+
+## HOMEPAGE SECTION 2 — NEW ARRIVALS
+
+Small label:
+
+JUST IN
+
+Heading:
+
+New to the house.
+
+Copy:
+
+Fresh compositions for skin, room, and ritual.
+
+Show:
+
+After Rain Eau de Parfum — $88
+
+Still Water Body Oil — $42
+
+Open Window Candle — $44
+
+Soft Hours Body Lotion — $36
+
+Each product must be clickable.
+
+CTA:
+
+VIEW NEW ARRIVALS
+
+Link:
+/collections/new
+
+---
+
+# 14. HOMEPAGE BRAND STATEMENT
+
+Create an editorial section using oversized typography.
+
+Text:
+
+MADE FOR THE MOMENTS
+NO ONE POSTS ABOUT.
+
+Supporting copy:
+
+The shower before everyone wakes.
+The window opened after rain.
+The shirt that still smells like yesterday.
+The five quiet minutes before leaving home.
+
+Serein House makes fragrance for those moments.
+
+Do not put this inside a generic card.
+
+---
+
+# 15. SHOP BY RITUAL
+
+Heading:
+
+SHOP BY RITUAL
+
+Create four large editorial categories.
+
+THE SHOWER
+
+Copy:
+Clean skin, warm water, a little more time.
+
+Link:
+/collections/body-care
+
+THE SKIN
+
+Copy:
+Lightweight oils and lotions made to stay close.
+
+Link:
+/collections/body-care
+
+THE SCENT
+
+Copy:
+Personal fragrances designed to be noticed slowly.
+
+Link:
+/collections/fragrance
+
+THE ROOM
+
+Copy:
+Candles and room fragrance for spaces that feel lived in.
+
+Link:
+/collections/home
+
+Each category should use immersive photography.
+
+---
+
+# 16. FEATURED PRODUCT
+
+Feature:
+
+AFTER RAIN
+EAU DE PARFUM
+
+Price:
+
+$88
+
+Size:
+
+50 ml / 1.7 fl oz
+
+Short description:
+
+The smell of pavement after summer rain, softened by iris and warm skin.
+
+Scent family:
+
+Woody Musk
+
+Notes:
+
+TOP
+Bergamot
+Rain Accord
+
+HEART
+Iris
+Violet Leaf
+
+BASE
+Wet Cedar
+White Musk
+Ambrette
+
+Description:
+
+After Rain begins cool and mineral, like the first breath through an open window after a storm. Bergamot and a translucent rain accord settle into soft iris before cedar, ambrette, and white musk warm against the skin.
+
+It is fresh without becoming aquatic, woody without feeling heavy, and intimate enough to wear every day.
+
+Price:
+$88
+
+Rating:
+4.9
+
+Reviews:
+128 reviews
+
+CTA:
+
+DISCOVER AFTER RAIN
+
+Link:
+/products/after-rain-eau-de-parfum
+
+Secondary:
+
+ADD TO BAG
+
+---
+
+# 17. BRAND STORY SECTION
+
+Headline:
+
+A scent can take you somewhere before you remember where.
+
+Body:
+
+We started Serein House with a simple idea: fragrance doesn't need an occasion.
+
+Some of the scents we remember most aren't perfumes at all. They're rain through an open window, soap left on warm skin, a familiar sweater, cedar drawers, or sunlight on clean sheets.
+
+Our collection translates those quiet memories into things you can wear, wash with, and bring into your home.
+
+CTA:
+
+OUR STORY
+
+Link:
+/about
+
+---
+
+# 18. BEST SELLERS
+
+Heading:
+
+THE ONES PEOPLE COME BACK FOR.
+
+Display:
+
+After Rain Eau de Parfum — $88
+
+Soft Hours Body Wash — $32
+
+Quiet Morning Eau de Parfum — $88
+
+Open Window Candle — $44
+
+CTA:
+
+SHOP BEST SELLERS
+
+Link:
+/collections/bestsellers
+
+---
+
+# 19. CUSTOMER REVIEWS
+
+Do NOT create generic testimonial cards.
+
+Use oversized editorial quotes with subtle navigation.
+
+Review 1:
+
+"the kind of scent people lean closer to ask about."
+
+Mara L.
+Verified Buyer
+After Rain Eau de Parfum
+★★★★★
+
+Review 2:
+
+"soft hours has permanently replaced every body wash in my shower."
+
+Claire M.
+Verified Buyer
+Soft Hours Body Wash
+★★★★★
+
+Review 3:
+
+"open window somehow makes my apartment feel calmer within minutes."
+
+Jamie R.
+Verified Buyer
+Open Window Candle
+★★★★★
+
+Review 4:
+
+"quiet morning smells like clean skin without smelling like laundry detergent."
+
+Sofia K.
+Verified Buyer
+Quiet Morning Eau de Parfum
+★★★★★
+
+---
+
+# 20. JOURNAL PREVIEW
+
+Label:
+
+FROM THE JOURNAL
+
+Heading:
+
+Notes on scent, space, and slowing down.
+
+ARTICLE 1
+
+Why scent memories stay with us
+
+Description:
+
+Why a familiar smell can bring back a place, person, or moment before you have time to think.
+
+Link:
+/journal/why-scent-memories-stay
+
+ARTICLE 2
+
+Building a five-minute evening ritual
+
+Description:
+
+A small routine for closing one part of the day before beginning another.
+
+Link:
+/journal/five-minute-evening-ritual
+
+ARTICLE 3
+
+The quiet appeal of skin scents
+
+Description:
+
+Why some of today's most interesting fragrances aren't designed to fill a room.
+
+Link:
+/journal/the-quiet-appeal-of-skin-scents
+
+CTA:
+
+READ THE JOURNAL
+
+Link:
+/journal
+
+---
+
+# 21. NEWSLETTER
+
+Use a visually distinctive full-width section.
+
+Small label:
+
+LETTERS FROM THE HOUSE
+
+Headline:
+
+Stay a little longer.
+
+Copy:
+
+New compositions, scent notes, journal entries, and occasional things worth slowing down for.
+
+Email placeholder:
+
+your@email.com
+
+Button:
+
+JOIN THE LIST
+
+Success state:
+
+You're in. We'll write soon.
+
+---
+
+# 22. COMPLETE PRODUCT CATALOG
+
+Create ALL following products.
+
+Every product needs its own page.
+
+---
+
+# PRODUCT 01
+
+SOFT HOURS BODY WASH
+
+Category:
+Body Care
+
+Price:
+$32
+
+Size:
+300 ml / 10.1 fl oz
+
+Rating:
+4.8
+
+Review count:
+86
+
+Short description:
+
+A low-foam body cleanser with a soft, clean scent that stays close to the skin.
+
+Fragrance:
+
+Bergamot
+Rice Milk
+White Tea
+Sandalwood
+
+Full description:
+
+Soft Hours is a gentle daily body wash designed to cleanse without leaving skin feeling tight or overly fragranced.
+
+The scent opens with bergamot and white tea before settling into creamy rice milk and sandalwood.
+
+Its lightweight gel texture creates a soft lather and rinses clean, leaving only a subtle trace of fragrance behind.
+
+How to use:
+
+Massage onto wet skin, work into a gentle lather, and rinse thoroughly.
+
+Ingredients highlight:
+
+Aloe vera
+Glycerin
+Oat extract
+Vitamin E
+
+Badge:
+
+BEST SELLER
+
+---
+
+# PRODUCT 02
+
+SOFT HOURS BODY LOTION
+
+Category:
+Body Care
+
+Price:
+$36
+
+Size:
+250 ml / 8.4 fl oz
+
+Rating:
+4.9
+
+Review count:
+72
+
+Short description:
+
+A lightweight daily lotion scented with white tea, rice milk, and sandalwood.
+
+Full description:
+
+Made for the minutes after a shower.
+
+Soft Hours Body Lotion absorbs quickly and leaves skin feeling comfortable rather than coated.
+
+White tea and bergamot give way to creamy rice milk and sandalwood for a subtle fragrance that layers naturally with the rest of the Soft Hours collection.
+
+Ingredients highlight:
+
+Shea butter
+Squalane
+Glycerin
+Vitamin E
+
+How to use:
+
+Massage into clean skin, concentrating on dry areas.
+
+---
+
+# PRODUCT 03
+
+STILL WATER BODY OIL
+
+Category:
+Body Care
+
+Price:
+$42
+
+Size:
+100 ml / 3.4 fl oz
+
+Rating:
+4.9
+
+Review count:
+64
+
+Short description:
+
+A dry-touch body oil with neroli, mineral woods, and skin musk.
+
+Full description:
+
+Still Water gives skin a soft sheen without the heavy finish of a traditional body oil.
+
+A blend of lightweight plant oils absorbs quickly while neroli, mineral woods, and musk leave a barely-there scent.
+
+Use it alone or layered underneath fragrance.
+
+Ingredients highlight:
+
+Jojoba oil
+Squalane
+Sweet almond oil
+Vitamin E
+
+Fragrance:
+
+Neroli
+Mineral Accord
+Cedar
+Skin Musk
+
+Badge:
+
+NEW
+
+---
+
+# PRODUCT 04
+
+SUNDAY SKIN HAND WASH
+
+Category:
+Body Care
+
+Price:
+$28
+
+Size:
+300 ml
+
+Rating:
+4.7
+
+Review count:
+43
+
+Description:
+
+A gentle hand cleanser scented with fig leaf, black tea, and pale woods.
+
+Fragrance:
+
+Fig Leaf
+Black Tea
+Cedar
+Soft Musk
+
+Full description:
+
+Sunday Skin turns something ordinary into a small ritual.
+
+The gentle cleanser leaves hands clean without feeling stripped, while fig leaf and black tea settle into pale cedar and musk.
+
+---
+
+# PRODUCT 05
+
+SUNDAY SKIN HAND CREAM
+
+Category:
+Body Care
+
+Price:
+$24
+
+Size:
+75 ml
+
+Rating:
+4.8
+
+Review count:
+39
+
+Description:
+
+A fast-absorbing hand cream with fig leaf, black tea, cedar, and soft musk.
+
+Ingredients:
+
+Shea butter
+Squalane
+Jojoba oil
+Vitamin E
+
+---
+
+# PRODUCT 06
+
+AFTER RAIN EAU DE PARFUM
+
+Category:
+Fragrance
+
+Price:
+$88
+
+Size:
+50 ml
+
+Rating:
+4.9
+
+Review count:
+128
+
+Badge:
+
+BEST SELLER
+
+Scent family:
+
+Woody Musk
+
+TOP:
+
+Bergamot
+Rain Accord
+
+HEART:
+
+Iris
+Violet Leaf
+
+BASE:
+
+Wet Cedar
+White Musk
+Ambrette
+
+Description:
+
+The smell of pavement after summer rain, softened by iris and warm skin.
+
+Full description:
+
+After Rain begins cool and mineral before becoming increasingly intimate on skin.
+
+Bergamot and a translucent rain accord create the first impression. Iris and violet leaf soften the center while wet cedar, ambrette, and white musk form a warm, understated base.
+
+---
+
+# PRODUCT 07
+
+QUIET MORNING EAU DE PARFUM
+
+Category:
+Fragrance
+
+Price:
+$88
+
+Size:
+50 ml
+
+Rating:
+4.8
+
+Review count:
+97
+
+Scent family:
+
+Soft Floral Musk
+
+TOP:
+
+Pear Skin
+Bergamot
+
+HEART:
+
+White Tea
+Orris
+
+BASE:
+
+Cashmere Wood
+Skin Musk
+
+Short description:
+
+Clean sheets, open curtains, and the first cup of tea.
+
+Full description:
+
+Quiet Morning is a clean fragrance without the sharpness traditionally associated with fresh scents.
+
+Pear skin and bergamot open softly before white tea and orris emerge. Cashmere wood and musk create a warm finish that sits close to the body.
+
+---
+
+# PRODUCT 08
+
+NO. 03 LATE LIGHT EAU DE PARFUM
+
+Category:
+Fragrance
+
+Price:
+$92
+
+Size:
+50 ml
+
+Rating:
+4.9
+
+Review count:
+75
+
+Badge:
+
+NEW
+
+Scent family:
+
+Warm Woody
+
+TOP:
+
+Mandarin Peel
+Pink Pepper
+
+HEART:
+
+Fig
+Black Tea
+
+BASE:
+
+Cedar
+Tonka
+Amber
+
+Short description:
+
+Golden-hour warmth translated into fig, tea, cedar, and amber.
+
+Full description:
+
+Late Light is inspired by the final warm light that enters a room before evening.
+
+Mandarin and pink pepper provide brightness before giving way to ripe fig and black tea. Cedar, tonka, and amber create a warm drydown.
+
+---
+
+# PRODUCT 09
+
+SEREIN DISCOVERY SET
+
+Category:
+Fragrance
+
+Price:
+$28
+
+Rating:
+4.9
+
+Review count:
+112
+
+Contents:
+
+After Rain — 2 ml
+
+Quiet Morning — 2 ml
+
+Late Light — 2 ml
+
+Plus two experimental house samples.
+
+Description:
+
+Five small ways into the world of Serein House.
+
+Try the fragrances slowly, wear them on skin, and return to the ones you keep thinking about.
+
+Include:
+
+$20 fragrance credit toward a future full-size fragrance purchase.
+
+Badge:
+
+POPULAR
+
+---
+
+# PRODUCT 10
+
+OPEN WINDOW CANDLE
+
+Category:
+Home Fragrance
+
+Price:
+$44
+
+Size:
+220 g
+
+Burn time:
+Approximately 50 hours
+
+Rating:
+4.9
+
+Review count:
+81
+
+Badge:
+
+BEST SELLER
+
+Fragrance:
+
+Rain Accord
+Eucalyptus
+Cedar
+White Musk
+
+Description:
+
+The scent of cool air moving through a room after rain.
+
+Full description:
+
+Open Window combines mineral rain notes with eucalyptus, cedar, and white musk.
+
+Designed to freshen a room without overwhelming it.
+
+Use:
+
+Trim wick to approximately 5 mm before each burn.
+
+Never burn longer than four hours at a time.
+
+---
+
+# PRODUCT 11
+
+LATE LIGHT CANDLE
+
+Category:
+Home Fragrance
+
+Price:
+$44
+
+Size:
+220 g
+
+Burn time:
+Approximately 50 hours
+
+Rating:
+4.8
+
+Review count:
+58
+
+Fragrance:
+
+Fig
+Black Tea
+Cedar
+Amber
+
+Description:
+
+Warm fig, tea, and cedar for the hour when daylight begins to disappear.
+
+---
+
+# PRODUCT 12
+
+SUNDAY ROOM SPRAY
+
+Category:
+Home Fragrance
+
+Price:
+$38
+
+Size:
+100 ml
+
+Rating:
+4.7
+
+Review count:
+41
+
+Fragrance:
+
+Fig Leaf
+Black Tea
+Cedar
+Soft Musk
+
+Description:
+
+A few sprays for rooms that need resetting.
+
+Use on:
+
+Living spaces
+Bedrooms
+Entryways
+
+Do not market as a fabric spray.
+
+---
+
+# PRODUCT 13
+
+THE EVENING RITUAL
+
+Category:
+Sets & Gifts
+
+Price:
+$96
+
+Compare-at price:
+$112
+
+Rating:
+4.9
+
+Review count:
+67
+
+Includes:
+
+Soft Hours Body Wash
+Still Water Body Oil
+Open Window Candle
+
+Description:
+
+Three small signals that the day is ending.
+
+Cleanse, moisturize, light the candle, and leave the rest until tomorrow.
+
+Badge:
+
+SAVE $16
+
+---
+
+# PRODUCT 14
+
+SOFT HOURS DUO
+
+Category:
+Sets & Gifts
+
+Price:
+$62
+
+Compare-at price:
+$68
+
+Rating:
+4.8
+
+Review count:
+51
+
+Includes:
+
+Soft Hours Body Wash
+Soft Hours Body Lotion
+
+Description:
+
+The shower and what comes after.
+
+Two daily essentials sharing the Soft Hours scent of bergamot, white tea, rice milk, and sandalwood.
+
+---
+
+# PRODUCT 15
+
+SEREIN DISCOVERY COLLECTION
+
+Category:
+Sets & Gifts
+
+Price:
+$68
+
+Compare-at price:
+$78
+
+Rating:
+4.9
+
+Review count:
+34
+
+Includes:
+
+Serein Discovery Set
+Sunday Skin Hand Cream
+Mini Open Window Candle
+
+Description:
+
+A small introduction to fragrance, skin, and home from Serein House.
+
+Ideal for gifting or discovering the brand.
+
+---
+
+# 23. SHOP PAGE
+
+Route:
+
+/shop
+
+Heading:
+
+THE COLLECTION
+
+Intro:
+
+Fragrance for skin, shower, room, and the spaces between.
+
+Display all 15 products.
+
+Include:
+
+15 PRODUCTS
+
+Filters:
+
+CATEGORY
+
+All
+Body Care
+Fragrance
+Home Fragrance
+Sets & Gifts
+
+SCENT FAMILY
+
+Fresh
+Woody
+Musk
+Floral
+Warm
+Green
+
+PRICE
+
+Under $30
+$30–$50
+$50–$80
+$80+
+
+AVAILABILITY
+
+In Stock
+
+Sort options:
+
+Featured
+Best Selling
+Newest
+Price: Low to High
+Price: High to Low
+
+Product cards must show:
+
+Image
+Alternate hover image
+Product name
+Category
+Price
+Compare-at price when applicable
+Rating
+Review count
+Badge when applicable
+Quick Add
+Wishlist heart
+
+Clicking the product image or title must open the individual product page.
+
+---
+
+# 24. COLLECTION PAGES
+
+Every collection should have:
+
+Unique heading
+Short editorial description
+Relevant imagery
+Product count
+Filters
+Sorting
+Product grid
+
+BODY CARE
+
+Heading:
+
+BODY, SLOWLY.
+
+Description:
+
+Cleansers, oils, lotions, and hand care made for the parts of the day that don't need rushing.
+
+FRAGRANCE
+
+Heading:
+
+PERSONAL FRAGRANCE
+
+Description:
+
+Compositions designed to stay close, unfold slowly, and become familiar.
+
+HOME FRAGRANCE
+
+Heading:
+
+FOR THE ROOM
+
+Description:
+
+Candles and room fragrance inspired by open windows, late light, and lived-in spaces.
+
+SETS & GIFTS
+
+Heading:
+
+THINGS TO GIVE.
+THINGS TO KEEP.
+
+Description:
+
+Paired rituals and small introductions to the house.
+
+---
+
+# 25. PRODUCT PAGE DESIGN
+
+Every product page must include:
+
+Breadcrumb navigation
+
+Image gallery
+
+At least 4 image positions/placeholders:
+front product shot
+detail shot
+lifestyle image
+texture/context image
+
+Product category
+
+Product name
+
+Price
+
+Compare-at price where applicable
+
+Rating
+
+Review count
+
+Short description
+
+Size
+
+Quantity selector
+
+ADD TO BAG
+
+BUY NOW
+
+Wishlist
+
+Shipping note:
+
+Complimentary shipping on orders over $75.
+
+Small trust line:
+
+30-day returns on unopened products.
+
+Accordion sections:
+
+DESCRIPTION
+
+NOTES / INGREDIENTS
+
+HOW TO USE
+
+SHIPPING & RETURNS
+
+Fragrance products should display:
+
+TOP
+HEART
+BASE
+
+in a distinctive editorial section.
+
+Include:
+
+YOU MAY ALSO LIKE
+
+with 4 related products.
+
+Include customer reviews below.
+
+---
+
+# 26. CART FUNCTIONALITY
+
+Cart must actually work on the front end.
+
+Users should be able to:
+
+Add product
+Remove product
+Increase quantity
+Decrease quantity
+See subtotal update
+See cart count update
+See compare-at savings
+Continue shopping
+
+Use either a cart drawer plus /cart page or both.
+
+Display:
+
+YOUR BAG
+
+Shipping progress bar.
+
+Threshold:
+
+$75
+
+Example:
+
+$52 cart:
+
+"You're $23 away from complimentary shipping."
+
+$75+ cart:
+
+"Complimentary shipping unlocked."
+
+Checkout button:
+
+CHECKOUT — $XX.XX
+
+Because this is a portfolio project, checkout can show:
+
+"Demo store — checkout is not connected."
+
+Do not collect real payment information.
+
+---
+
+# 27. SEARCH
+
+Clicking Search must open a functioning search experience.
+
+Search products by:
+
+name
+category
+fragrance notes
+keywords
+
+Example:
+
+Searching "rain" should show:
+
+After Rain Eau de Parfum
+
+Open Window Candle
+
+Search results should show:
+
+image
+name
+category
+price
+
+Create:
+
+POPULAR SEARCHES
+
+After Rain
+Body Oil
+Candles
+Discovery Set
+
+---
+
+# 28. ABOUT PAGE
+
+Route:
+
+/about
+
+Hero:
+
+WE MAKE FRAGRANCE
+FOR ORDINARY DAYS.
+
+Intro:
+
+Serein House began with the scents we remembered without trying.
+
+Rain through a window.
+Soap on warm skin.
+A cedar drawer.
+Tea left beside the bed.
+Someone's sweater.
+
+We wanted to make fragrance that felt less like getting ready for an occasion and more like becoming part of a life.
+
+Section:
+
+WHY SEREIN
+
+Copy:
+
+The word "serein" describes fine rain falling from a clear evening sky.
+
+We liked the contradiction: something quiet, unexpected, and difficult to notice unless you're paying attention.
+
+That idea became the foundation of the house.
+
+Section:
+
+OUR APPROACH
+
+Copy:
+
+We build fragrances around atmosphere rather than spectacle.
+
+Each composition begins with a place, texture, temperature, or familiar moment before becoming a formula.
+
+Our personal fragrances are intentionally wearable. Our body products are designed to layer without competing. Our home collection is made to change the feeling of a room without taking it over.
+
+Section:
+
+MADE TO LIVE WITH
+
+Copy:
+
+We don't believe fragrance needs to announce itself before you enter a room.
+
+Sometimes the best scent is the one someone notices only when they get closer.
+
+Add strong editorial imagery throughout.
+
+---
+
+# 29. JOURNAL PAGE
+
+Route:
+
+/journal
+
+Heading:
+
+THE SEREIN JOURNAL
+
+Description:
+
+Notes on fragrance, memory, rooms, rituals, and paying attention.
+
+Display three articles.
+
+---
+
+# 30. JOURNAL ARTICLE 1
+
+Title:
+
+Why scent memories stay with us
+
+Category:
+
+NOTES ON SCENT
+
+Reading time:
+
+4 MIN READ
+
+Intro:
+
+A familiar smell can return you to a place before you've consciously remembered it.
+
+Create approximately 600–800 words of polished editorial content discussing scent and memory in an accessible lifestyle-magazine tone.
+
+Do not make medical or scientific claims that require citations.
+
+Focus on:
+
+personal memory
+places
+familiar people
+homes
+travel
+clothing
+food
+weather
+why fragrance becomes personal
+
+---
+
+# 31. JOURNAL ARTICLE 2
+
+Title:
+
+Building a five-minute evening ritual
+
+Category:
+
+RITUALS
+
+Reading time:
+
+3 MIN READ
+
+Create approximately 500–700 words.
+
+Focus on a realistic five-minute transition after work:
+
+put phone down
+wash hands or shower
+change lighting
+apply body oil
+light candle
+open window
+prepare tea
+take several quiet minutes
+
+Keep it practical rather than preachy.
+
+---
+
+# 32. JOURNAL ARTICLE 3
+
+Title:
+
+The quiet appeal of skin scents
+
+Category:
+
+NOTES ON SCENT
+
+Reading time:
+
+4 MIN READ
+
+Create approximately 600–800 words about intimate fragrances that stay close to the wearer rather than projecting heavily.
+
+Keep the writing editorial and accessible.
+
+---
+
+# 33. CONTACT PAGE
+
+Route:
+
+/contact
+
+Heading:
+
+COME SAY HELLO.
+
+Copy:
+
+Questions about an order, a scent, or something else entirely? Send us a note.
+
+Contact form:
+
+NAME
+
+EMAIL
+
+ORDER NUMBER
+Optional
+
+SUBJECT
+
+MESSAGE
+
+SEND MESSAGE
+
+Demo contact email:
+
+hello@sereinhouse.com
+
+Customer Care:
+
+Monday–Friday
+9 AM–5 PM
+
+Include:
+
+Instagram
+TikTok
+Pinterest
+
+Since this is a fictional portfolio project, social links can remain clearly marked as demo links rather than linking to nonexistent accounts.
+
+---
+
+# 34. FAQ PAGE
+
+Heading:
+
+QUESTIONS, ANSWERED.
+
+Create accordion categories.
+
+ORDERS
+
+Can I change my order after placing it?
+
+Orders begin processing quickly. Contact us as soon as possible and we'll do our best to help before the order ships.
+
+Can I cancel an order?
+
+Orders that have not entered fulfillment may be cancelled. Contact customer care with your order number.
+
+---
+
+SHIPPING
+
+When will my order ship?
+
+Demo copy:
+
+Orders typically leave our studio within 1–3 business days.
+
+How much is shipping?
+
+Complimentary standard shipping is available on orders over $75. Shipping costs for smaller orders are calculated at checkout.
+
+---
+
+RETURNS
+
+Can I return my order?
+
+Unopened and unused products may be returned within 30 days of delivery.
+
+For hygiene reasons, opened body-care products cannot be returned.
+
+---
+
+FRAGRANCE
+
+How should I choose a fragrance?
+
+Start with the Discovery Set if you're unsure. Fragrance develops differently on every person, so we recommend wearing each sample for several hours before deciding.
+
+How long does fragrance last?
+
+Longevity depends on skin, environment, application, and composition. Eau de parfum generally remains noticeable for several hours.
+
+---
+
+PRODUCTS
+
+Are your products tested on animals?
+
+Serein House does not test finished products on animals.
+
+Where can I find ingredients?
+
+Full ingredient information appears on each relevant product page and product packaging.
+
+---
+
+# 35. SHIPPING & RETURNS PAGE
+
+Create a polished page covering:
+
+Processing
+
+1–3 business days.
+
+Shipping
+
+Complimentary standard shipping over $75.
+
+Returns
+
+30 days for unopened and unused products.
+
+Damaged orders
+
+Contact customer care within seven days of delivery and include photographs of the package and product.
+
+Clarify that all policies are demonstration content for this fictional portfolio store if necessary.
+
+---
+
+# 36. ACCOUNT ICON
+
+Because this is a portfolio demonstration, clicking Account can open a polished login modal/page.
+
+Include:
+
+WELCOME BACK
+
+Email
+
+Password
+
+SIGN IN
+
+Forgot password?
+
+NEW HERE?
+
+CREATE ACCOUNT
+
+The authentication does not need a real backend unless one is already being implemented.
+
+Do not make fake authentication appear functional if it isn't.
+
+---
+
+# 37. WISHLIST
+
+Wishlist heart should work locally.
+
+Users can:
+
+Add products
+Remove products
+See heart state change
+
+If possible, persist using localStorage.
+
+---
+
+# 38. QUICK ADD
+
+Quick Add should work from product cards.
+
+Clicking QUICK ADD should:
+
+Add straightforward products immediately.
+
+For products requiring options, open a small quick-shop interface.
+
+Update cart count immediately.
+
+Show subtle confirmation:
+
+ADDED TO YOUR BAG.
+
+---
+
+# 39. DEMO FUNCTIONALITY
+
+Because this is a portfolio website:
+
+DO implement:
+
+Product browsing
+Collection navigation
+Filters
+Sorting
+Search
+Quick Add
+Cart
+Quantity updates
+Wishlist
+Newsletter success state
+Contact form success state
+Responsive menus
+Accordions
+Product galleries
+
+DO NOT require:
+
+Real Stripe
+Real Shopify backend
+Real customer accounts
+Real shipping API
+Real orders
+
+Never collect actual payment information.
+
+---
+
+# 40. IMAGE REQUIREMENTS
+
+Use high-quality relevant placeholder/generated imagery.
+
+Do NOT use random unrelated stock images.
+
+Maintain consistent art direction.
+
+Required imagery should include:
+
+Hero campaign
+
+15 primary product images
+
+Product alternate images
+
+Body-care lifestyle
+
+Perfume lifestyle
+
+Candle/home imagery
+
+About page imagery
+
+Journal imagery
+
+Collection hero imagery
+
+All images should share:
+
+warm natural lighting
+editorial composition
+subtle grain if appropriate
+realistic product photography
+cream/plum/sage brand tones
+
+Avoid obvious AI artifacts.
+
+---
+
+# 41. MICROCOPY
+
+Cart empty:
+
+YOUR BAG IS QUIET.
+
+Add something worth keeping around.
+
+CTA:
+
+EXPLORE THE COLLECTION
+
+---
+
+Search empty:
+
+NOTHING FOUND.
+
+Try another word, scent, or category.
+
+---
+
+Wishlist empty:
+
+SAVED FOR LATER.
+
+Things you want to come back to will live here.
+
+---
+
+404:
+
+THIS PAGE DRIFTED AWAY.
+
+The thing you're looking for isn't here anymore — or perhaps never was.
+
+CTA:
+
+RETURN HOME
+
+Secondary:
+
+SHOP THE COLLECTION
+
+---
+
+# 42. BUTTON STYLE
+
+Primary buttons:
+
+Rectangular
+Minimal radius
+Strong typography
+Uppercase small text
+Slight letter spacing
+
+Avoid giant pill buttons.
+
+Primary example:
+
+SHOP THE COLLECTION →
+
+Secondary buttons can use text + underline or arrow interactions.
+
+Hover:
+
+subtle background inversion
+arrow movement
+image transition
+
+---
+
+# 43. ANIMATION
+
+Use restrained motion.
+
+Allowed:
+
+gentle image scale
+text reveal
+fade
+slide
+marquee
+hover underline
+arrow movement
+cart transition
+mega-menu animation
+image crossfade
+
+Do NOT use:
+
+constant floating
+bouncing
+excessive parallax
+cursor gimmicks
+large spinning elements
+excessive scroll hijacking
+
+Performance is more important than animation.
+
+---
+
+# 44. MOBILE EXPERIENCE
+
+Mobile design is extremely important.
+
+Design for:
+
+375px
+390px
+430px
+768px
+
+Desktop:
+
+1024px
+1280px
+1440px
+1920px
+
+On mobile:
+
+Use appropriate typography scaling.
+
+Products should generally display two columns where space allows.
+
+Use sticky Add to Bag on product pages if helpful.
+
+Filters can open as a bottom sheet or drawer.
+
+Cart should remain easy to edit.
+
+Navigation should be touch-friendly.
+
+No horizontal overflow.
+
+No tiny buttons.
+
+No text running outside containers.
+
+No desktop layout simply shrunk down.
+
+---
+
+# 45. ACCESSIBILITY
+
+Use semantic HTML.
+
+Provide:
+
+alt text
+labels
+keyboard navigation
+focus states
+ARIA where appropriate
+sufficient contrast
+accessible accordion controls
+accessible navigation
+accessible forms
+
+Do not rely only on color to communicate states.
+
+---
+
+# 46. SEO
+
+Every page should have a unique:
+
+<title>
+
+meta description
+
+Open Graph information where appropriate.
+
+Product pages should use product-specific titles and descriptions.
+
+Example:
+
+After Rain Eau de Parfum | Serein House
+
+Meta:
+
+A soft woody musk with bergamot, iris, wet cedar, ambrette, and white musk.
+
+Use logical heading hierarchy.
+
+Only one main H1 per page.
+
+---
+
+# 47. PERFORMANCE
+
+Optimize for good performance.
+
+Use:
+
+responsive images
+lazy loading
+optimized image formats
+reusable components
+minimal unnecessary JavaScript
+efficient animations
+
+Avoid loading extremely large images unnecessarily.
+
+---
+
+# 48. COMPONENT ARCHITECTURE
+
+Build reusable components for:
+
+AnnouncementBar
+Header
+MegaMenu
+MobileMenu
+Footer
+PortfolioCredit
+ProductCard
+ProductGrid
+CollectionFilters
+SortDropdown
+RatingStars
+Price
+Badge
+QuantitySelector
+CartDrawer
+CartItem
+ProductGallery
+Accordion
+ReviewSection
+Newsletter
+JournalCard
+Breadcrumbs
+Search
+WishlistButton
+QuickAdd
+Button
+
+Keep product information centralized in structured data rather than duplicating data manually across pages.
+
+---
+
+# 49. FOOTER
+
+Create a substantial ecommerce footer.
+
+Large SEREIN HOUSE wordmark.
+
+Newsletter:
+
+LETTERS FROM THE HOUSE
+
+Email field.
+
+Columns:
+
+SHOP
+
+Shop All
+Body Care
+Fragrance
+Home Fragrance
+Sets & Gifts
+New Arrivals
+Best Sellers
+
+ABOUT
+
+Our Story
+Journal
+
+HELP
+
+Contact
+FAQ
+Shipping & Returns
+Privacy
+Terms
+
+FOLLOW
+
+Instagram
+TikTok
+Pinterest
+
+Bottom line:
+
+© 2026 SEREIN HOUSE
+
+CONCEPT STORE — NOT A REAL COMMERCIAL BRAND
+
+This clarification can be subtle but visible.
+
+---
+
+# 50. PORTFOLIO DEVELOPER SIGNATURE
+
+THIS IS VERY IMPORTANT.
+
+Below the main Serein House footer, create a separate developer signature section.
+
+This should appear on EVERY page.
+
+Do not hide it only on the homepage.
+
+Use the visual concept from the Alta Vento Tempesta portfolio project where the creator credit remains a deliberate part of the final composition.
+
+Small text:
+
+DESIGNED & DEVELOPED BY
+
+Large text:
+
+WORKS BY JEM ↗
+
+Make WORKS BY JEM visually distinctive.
+
+It can use oversized Bodoni Moda typography.
+
+Use contrasting background, such as Deep Plum with Warm Cream text.
+
+Add subtle hover interaction.
+
+The developer signature should feel like the final design moment of the page rather than a tiny footer credit.
+
+If a portfolio URL is later supplied, make WORKS BY JEM clickable to that URL.
+
+Until then, do NOT invent an external URL.
+
+---
+
+# 51. OPTIONAL FIXED PORTFOLIO MARK
+
+In addition to the footer signature, add a very subtle fixed edge label on desktop only:
+
+A PORTFOLIO PROJECT BY JEM
+
+Keep it small and tasteful.
+
+Do not allow it to interfere with ecommerce navigation.
+
+Hide or simplify it on mobile.
+
+---
+
+# 52. PRIVACY PAGE
+
+Create realistic placeholder/demo privacy-policy content appropriate for a fictional ecommerce portfolio project.
+
+Clearly state that the website is a concept project and does not process real transactions.
+
+---
+
+# 53. TERMS PAGE
+
+Create realistic demonstration terms covering:
+
+Website usage
+Product information
+Demo transactions
+Intellectual property
+Portfolio project status
+
+Avoid pretending Serein House is a registered real-world company.
+
+---
+
+# 54. ERROR HANDLING
+
+Make sure:
+
+Broken product slugs show 404.
+
+Invalid searches don't crash.
+
+Cart handles quantity zero appropriately.
+
+Images have fallbacks.
+
+Forms validate required fields.
+
+Newsletter validates email format.
+
+Contact form validates email.
+
+No console errors should appear during normal browsing.
+
+---
+
+# 55. SITE EXPERIENCE TEST
+
+Before considering the build complete, verify this customer journey:
+
+1. User lands on homepage.
+
+2. User clicks SHOP THE COLLECTION.
+
+3. /shop opens.
+
+4. User filters by Fragrance.
+
+5. User opens After Rain.
+
+6. Dedicated product page opens.
+
+7. User views gallery.
+
+8. User reads scent notes.
+
+9. User clicks Add to Bag.
+
+10. Cart count updates.
+
+11. User opens cart.
+
+12. User changes quantity.
+
+13. Subtotal updates.
+
+14. User returns to shopping.
+
+15. User searches "candle."
+
+16. Candle products appear.
+
+17. User opens Open Window Candle.
+
+18. User adds it to wishlist.
+
+19. User navigates to About.
+
+20. About is a separate page.
+
+21. User navigates to Journal.
+
+22. User opens an article.
+
+23. Article is a dedicated page.
+
+24. User opens Contact.
+
+25. Contact form works as a demo interaction.
+
+26. User scrolls to bottom.
+
+27. WORKS BY JEM credit appears.
+
+This flow must work on desktop and mobile.
+
+---
+
+# 56. IMPORTANT: NO DEAD LINKS
+
+Do not create navigation items that lead nowhere.
+
+Do not use:
+
+href="#"
+
+for major navigation.
+
+Do not make:
+
+About
+Journal
+Shop
+Collections
+Contact
+FAQ
+
+scroll to homepage sections.
+
+They must open actual pages/routes.
+
+Every product must open its dedicated product page.
+
+Every journal article must open its dedicated article page.
+
+---
+
+# 57. PORTFOLIO PRESENTATION QUALITY
+
+This website will be shown to potential clients and employers.
+
+It should demonstrate ability in:
+
+Brand design
+Frontend development
+Ecommerce UX
+Responsive development
+Product data architecture
+Multi-page routing
+Interactive components
+Shopping cart functionality
+Product filtering
+Search
+Visual hierarchy
+Typography
+Mobile UX
+Accessibility
+SEO
+Performance
+Art direction
+
+The project should look substantially different from Alta Vento Tempesta while maintaining the same level of polish.
+
+---
+
+# 58. FINAL BUILD STANDARD
+
+Do not deliver an unfinished template.
+
+Do not leave:
+
+Lorem ipsum
+generic placeholder copy
+empty collection pages
+duplicate product descriptions
+dead buttons
+broken routes
+missing mobile navigation
+unfinished footer links
+fake ratings without provided data
+random stock imagery
+inconsistent prices
+inconsistent product names
+
+All product prices, descriptions, names, categories, reviews, ratings, routes, and collection information above should remain consistent throughout the website.
+
+If product information appears in several places, pull it from the same centralized product dataset.
+
+The finished project should feel like an actual Shopify-style ecommerce storefront even if the implementation does not use Shopify.
+
+The final visual impression should be:
+
+"This looks like a real fragrance brand."
+
+Not:
+
+"This looks like an AI-generated portfolio template."
+
+---
+
+# 59. FINAL INSTRUCTION
+
+Build the complete website now.
+
+Start with the full architecture and shared design system, then implement every required page and route.
+
+Do not stop after creating only the homepage.
+
+Do not replace the requested pages with homepage anchors.
+
+Do not ask me to provide additional copy unless a genuinely technical requirement cannot be inferred.
+
+Use the exact brand identity, product catalog, pricing, descriptions, navigation structure, collection structure, interactions, and portfolio attribution specified in this brief.
+
+Before completion, test all navigation, product links, collection links, cart interactions, responsive layouts, forms, filters, search, wishlist behavior, and developer-credit placement.
+
+The result should be a complete, polished ecommerce portfolio project ready to deploy.

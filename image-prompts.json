@@ -1,0 +1,107 @@
+{
+  "mode": "built-in image_gen",
+  "assets": [
+    {
+      "slug": "soft-hours-body-wash",
+      "name": "Soft Hours Body Wash",
+      "path": "/Users/jemarieadame/.codex/.chatgpt-projects/g-p-6ac35e8986d48191a82d9039d0de6721/output/serein-images/soft-hours-body-wash.png",
+      "prompt": "Use case: product-mockup. Square ecommerce catalog primary product photograph for fictional premium fragrance and body care brand SEREIN HOUSE. Subject: amber pump body wash bottle. Packaging cream paper labels with dark plum elegant typography. Label exact brand 'SEREIN HOUSE', product 'Soft Hours Body Wash'. Product fills central 65 percent of frame with fully visible packaging, no cropping. Studio photography, realistic natural window light and soft directional shadow, seamless warm cream background and surface. Restrained premium editorial style, amber glass, tactile paper. Clean individual product image, no props, no UI, no text overlays, no watermark."
+    },
+    {
+      "slug": "soft-hours-body-lotion",
+      "name": "Soft Hours Body Lotion",
+      "path": "/Users/jemarieadame/.codex/.chatgpt-projects/g-p-6ac35e8986d48191a82d9039d0de6721/output/serein-images/soft-hours-body-lotion.png",
+      "prompt": "Use case: product-mockup. Square ecommerce catalog primary product photograph for fictional premium fragrance and body care brand SEREIN HOUSE. Subject: cream pump lotion bottle. Packaging cream paper labels with dark plum elegant typography. Label exact brand 'SEREIN HOUSE', product 'Soft Hours Body Lotion'. Product fills central 65 percent of frame with fully visible packaging, no cropping. Studio photography, realistic natural window light and soft directional shadow, seamless muted pale rose background and surface. Restrained premium editorial style, amber glass, tactile paper. Clean individual product image, no props, no UI, no text overlays, no watermark."
+    },
+    {
+      "slug": "still-water-body-oil",
+      "name": "Still Water Body Oil",
+      "path": "/Users/jemarieadame/.codex/.chatgpt-projects/g-p-6ac35e8986d48191a82d9039d0de6721/output/serein-images/still-water-body-oil.png",
+      "prompt": "Use case: product-mockup. Square ecommerce catalog primary product photograph for fictional premium fragrance and body care brand SEREIN HOUSE. Subject: amber glass dropper bottle. Packaging cream paper labels with dark plum elegant typography. Label exact brand 'SEREIN HOUSE', product 'Still Water Body Oil'. Product fills central 65 percent of frame with fully visible packaging, no cropping. Studio photography, realistic natural window light and soft directional shadow, seamless pale sage background and surface. Restrained premium editorial style, amber glass, tactile paper. Clean individual product image, no props, no UI, no text overlays, no watermark."
+    },
+    {
+      "slug": "sunday-skin-hand-wash",
+      "name": "Sunday Skin Hand Wash",
+      "path": "/Users/jemarieadame/.codex/.chatgpt-projects/g-p-6ac35e8986d48191a82d9039d0de6721/output/serein-images/sunday-skin-hand-wash.png",
+      "prompt": "Use case: product-mockup. Square ecommerce catalog primary product photograph for fictional premium fragrance and body care brand SEREIN HOUSE. Subject: amber pump hand wash bottle. Packaging cream paper labels with dark plum elegant typography. Label exact brand 'SEREIN HOUSE', product 'Sunday Skin Hand Wash'. Product fills central 65 percent of frame with fully visible packaging, no cropping. Studio photography, realistic natural window light and soft directional shadow, seamless warm cream background and surface. Restrained premium editorial style, amber glass, tactile paper. Clean individual product image, no props, no UI, no text overlays, no watermark."
+    },
+    {
+      "slug": "sunday-skin-hand-cream",
+      "name": "Sunday Skin Hand Cream",
+      "path": "/Users/jemarieadame/.codex/.chatgpt-projects/g-p-6ac35e8986d48191a82d9039d0de6721/output/serein-images/sunday-skin-hand-cream.png",
+      "prompt": "Use case: product-mockup. Square ecommerce catalog primary product photograph for fictional premium fragrance and body care brand SEREIN HOUSE. Subject: cream metal hand cream tube. Packaging cream paper labels with dark plum elegant typography. Label exact brand 'SEREIN HOUSE', product 'Sunday Skin Hand Cream'. Product fills central 65 percent of frame with fully visible packaging, no cropping. Studio photography, realistic natural window light and soft directional shadow, seamless muted pale rose background and surface. Restrained premium editorial style, amber glass, tactile paper. Clean individual product image, no props, no UI, no text overlays, no watermark."
+    },
+    {
+      "slug": "after-rain",
+      "name": "After Rain Eau de Parfum",
+      "path": "/Users/jemarieadame/.codex/.chatgpt-projects/g-p-6ac35e8986d48191a82d9039d0de6721/output/serein-images/after-rain.png",
+      "prompt": "Use case: product-mockup. Square ecommerce catalog primary product photograph for fictional premium fragrance and body care brand SEREIN HOUSE. Subject: amber rectangular perfume bottle with deep plum cap. Packaging cream paper labels with dark plum elegant typography. Label exact brand 'SEREIN HOUSE', product 'After Rain Eau de Parfum'. Product fills central 65 percent of frame with fully visible packaging, no cropping. Studio photography, realistic natural window light and soft directional shadow, seamless pale sage background and surface. Restrained premium editorial style, amber glass, tactile paper. Clean individual product image, no props, no UI, no text overlays, no watermark."
+    },
+    {
+      "slug": "quiet-morning",
+      "name": "Quiet Morning Eau de Parfum",
+      "path": "/Users/jemarieadame/.codex/.chatgpt-projects/g-p-6ac35e8986d48191a82d9039d0de6721/output/serein-images/quiet-morning.png",
+      "prompt": "Use case: product-mockup. Square ecommerce catalog primary product photograph for fictional premium fragrance and body care brand SEREIN HOUSE. Subject: amber rectangular perfume bottle with deep plum cap. Packaging cream paper labels with dark plum elegant typography. Label exact brand 'SEREIN HOUSE', product 'Quiet Morning Eau de Parfum'. Product fills central 65 percent of frame with fully visible packaging, no cropping. Studio photography, realistic natural window light and soft directional shadow, seamless warm cream background and surface. Restrained premium editorial style, amber glass, tactile paper. Clean individual product image, no props, no UI, no text overlays, no watermark."
+    },
+    {
+      "slug": "late-light-perfume",
+      "name": "No. 03 Late Light Eau de Parfum",
+      "path": "/Users/jemarieadame/.codex/.chatgpt-projects/g-p-6ac35e8986d48191a82d9039d0de6721/output/serein-images/late-light-perfume.png",
+      "prompt": "Use case: product-mockup. Square ecommerce catalog primary product photograph for fictional premium fragrance and body care brand SEREIN HOUSE. Subject: amber rectangular perfume bottle with deep plum cap. Packaging cream paper labels with dark plum elegant typography. Label exact brand 'SEREIN HOUSE', product 'No. 03 Late Light Eau de Parfum'. Product fills central 65 percent of frame with fully visible packaging, no cropping. Studio photography, realistic natural window light and soft directional shadow, seamless muted pale rose background and surface. Restrained premium editorial style, amber glass, tactile paper. Clean individual product image, no props, no UI, no text overlays, no watermark."
+    },
+    {
+      "slug": "discovery-set",
+      "name": "Serein Discovery Set",
+      "path": "/Users/jemarieadame/.codex/.chatgpt-projects/g-p-6ac35e8986d48191a82d9039d0de6721/output/serein-images/discovery-set.png",
+      "prompt": "Use case: product-mockup. Square ecommerce catalog primary product photograph for fictional premium fragrance and body care brand SEREIN HOUSE. Subject: five miniature perfume sample vials in an open cream presentation box. Packaging cream paper labels with dark plum elegant typography. Label exact brand 'SEREIN HOUSE', product 'Serein Discovery Set'. Product fills central 65 percent of frame with fully visible packaging, no cropping. Studio photography, realistic natural window light and soft directional shadow, seamless pale sage background and surface. Restrained premium editorial style, amber glass, tactile paper. Clean individual product image, no props, no UI, no text overlays, no watermark."
+    },
+    {
+      "slug": "open-window-candle",
+      "name": "Open Window Candle",
+      "path": "/Users/jemarieadame/.codex/.chatgpt-projects/g-p-6ac35e8986d48191a82d9039d0de6721/output/serein-images/open-window-candle.png",
+      "prompt": "Use case: product-mockup. Square ecommerce catalog primary product photograph for fictional premium fragrance and body care brand SEREIN HOUSE. Subject: amber glass candle jar. Packaging cream paper labels with dark plum elegant typography. Label exact brand 'SEREIN HOUSE', product 'Open Window Candle'. Product fills central 65 percent of frame with fully visible packaging, no cropping. Studio photography, realistic natural window light and soft directional shadow, seamless warm cream background and surface. Restrained premium editorial style, amber glass, tactile paper. Clean individual product image, no props, no UI, no text overlays, no watermark."
+    },
+    {
+      "slug": "late-light-candle",
+      "name": "Late Light Candle",
+      "path": "/Users/jemarieadame/.codex/.chatgpt-projects/g-p-6ac35e8986d48191a82d9039d0de6721/output/serein-images/late-light-candle.png",
+      "prompt": "Use case: product-mockup. Square ecommerce catalog primary product photograph for fictional premium fragrance and body care brand SEREIN HOUSE. Subject: amber glass candle jar. Packaging cream paper labels with dark plum elegant typography. Label exact brand 'SEREIN HOUSE', product 'Late Light Candle'. Product fills central 65 percent of frame with fully visible packaging, no cropping. Studio photography, realistic natural window light and soft directional shadow, seamless muted pale rose background and surface. Restrained premium editorial style, amber glass, tactile paper. Clean individual product image, no props, no UI, no text overlays, no watermark."
+    },
+    {
+      "slug": "sunday-room-spray",
+      "name": "Sunday Room Spray",
+      "path": "/Users/jemarieadame/.codex/.chatgpt-projects/g-p-6ac35e8986d48191a82d9039d0de6721/output/serein-images/sunday-room-spray.png",
+      "prompt": "Use case: product-mockup. Square ecommerce catalog primary product photograph for fictional premium fragrance and body care brand SEREIN HOUSE. Subject: amber glass room spray bottle. Packaging cream paper labels with dark plum elegant typography. Label exact brand 'SEREIN HOUSE', product 'Sunday Room Spray'. Product fills central 65 percent of frame with fully visible packaging, no cropping. Studio photography, realistic natural window light and soft directional shadow, seamless pale sage background and surface. Restrained premium editorial style, amber glass, tactile paper. Clean individual product image, no props, no UI, no text overlays, no watermark."
+    },
+    {
+      "slug": "evening-ritual",
+      "name": "The Evening Ritual",
+      "path": "/Users/jemarieadame/.codex/.chatgpt-projects/g-p-6ac35e8986d48191a82d9039d0de6721/output/serein-images/evening-ritual.png",
+      "prompt": "Use case: product-mockup. Square ecommerce catalog primary product photograph for fictional premium fragrance and body care brand SEREIN HOUSE. Subject: trio of amber pump body wash, amber dropper body oil, and amber candle jar. Packaging cream paper labels with dark plum elegant typography. Label exact brand 'SEREIN HOUSE', product 'The Evening Ritual'. Product fills central 65 percent of frame with fully visible packaging, no cropping. Studio photography, realistic natural window light and soft directional shadow, seamless warm cream background and surface. Restrained premium editorial style, amber glass, tactile paper. Clean individual product image, no props, no UI, no text overlays, no watermark."
+    },
+    {
+      "slug": "soft-hours-duo",
+      "name": "Soft Hours Duo",
+      "path": "/Users/jemarieadame/.codex/.chatgpt-projects/g-p-6ac35e8986d48191a82d9039d0de6721/output/serein-images/soft-hours-duo.png",
+      "prompt": "Use case: product-mockup. Square ecommerce catalog primary product photograph for fictional premium fragrance and body care brand SEREIN HOUSE. Subject: pair of amber body wash pump and cream body lotion pump bottles. Packaging cream paper labels with dark plum elegant typography. Label exact brand 'SEREIN HOUSE', product 'Soft Hours Duo'. Product fills central 65 percent of frame with fully visible packaging, no cropping. Studio photography, realistic natural window light and soft directional shadow, seamless muted pale rose background and surface. Restrained premium editorial style, amber glass, tactile paper. Clean individual product image, no props, no UI, no text overlays, no watermark."
+    },
+    {
+      "slug": "discovery-collection",
+      "name": "Serein Discovery Collection",
+      "path": "/Users/jemarieadame/.codex/.chatgpt-projects/g-p-6ac35e8986d48191a82d9039d0de6721/output/serein-images/discovery-collection.png",
+      "prompt": "Use case: product-mockup. Square ecommerce catalog primary product photograph for fictional premium fragrance and body care brand SEREIN HOUSE. Subject: perfume sample set with cream hand cream tube and miniature amber candle. Packaging cream paper labels with dark plum elegant typography. Label exact brand 'SEREIN HOUSE', product 'Serein Discovery Collection'. Product fills central 65 percent of frame with fully visible packaging, no cropping. Studio photography, realistic natural window light and soft directional shadow, seamless pale sage background and surface. Restrained premium editorial style, amber glass, tactile paper. Clean individual product image, no props, no UI, no text overlays, no watermark."
+    },
+    {
+      "slug": "campaign-hero",
+      "prompt": "Use case: product-mockup. Asset: premium fragrance ecommerce campaign hero, landscape 3:2 photographic image. Amber rectangular perfume bottle with cream paper label reading exactly 'SEREIN HOUSE' and 'AFTER RAIN', deep plum cap, standing on wet stone beside gauzy cream curtain and rain-speckled window. Bottle occupies right half; dark plum negative space on left for later website text. Warm natural side light, tactile film-like realism, cream/plum/sage color harmony, restrained luxury editorial photograph. No website UI, no overlay text, no watermark."
+    },
+    {
+      "slug": "bathroom-editorial",
+      "prompt": "Use case: product-mockup. Asset: premium fragrance ecommerce editorial landscape 3:2 photograph. Bathroom still life of amber pump body wash and cream lotion bottle, cream minimalist labels reading exactly 'SEREIN HOUSE' and 'SOFT HOURS', arranged on cream stone with sage towel. Real warm daylight, subtle shadows, tactile stone and cotton, intimate restrained luxury editorial product photography in cream/plum/sage color harmony. No UI, no overlay text, no watermark."
+    },
+    {
+      "slug": "home-editorial",
+      "prompt": "Use case: product-mockup. Asset: premium fragrance ecommerce editorial landscape 3:2 photograph. Home still life of amber glass candle with cream minimalist label reading exactly 'SEREIN HOUSE' and 'OPEN WINDOW', a cup of tea, natural cream linen and an open window. Warm late afternoon natural light, tactile realistic glass and linen, intimate restrained luxury editorial product photography in cream/plum/sage color harmony. No UI, no overlay text, no watermark."
+    }
+  ]
+}
